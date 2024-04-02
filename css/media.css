@@ -1,0 +1,558 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+body{
+  padding-top: 89px;
+}
+/*header start*/
+header {
+    padding: 15px;
+}
+.logo {
+    width: 140px;
+}
+.menu ul li a {
+    margin-top: 6px;
+    padding: 0 10px !important;
+}
+/*header end*/
+/*banner start*/
+.b_content{
+	text-align: center;
+}
+.b_h1 {
+    margin: 0 ;
+    font-size: 24px;
+}
+.b_p {
+    padding: 0 ;
+    font-size: 14px;
+    line-height: 24px;
+}
+.b_img {
+	margin-bottom: 10px;
+    padding: 0 ;
+}
+.b_btn {
+    margin-top: 20px;
+}
+.btn_sign {
+    padding: 8px 15px;
+}
+/*banner end*/
+/*feature start*/
+.feature {
+    padding: 40px 0 60px;
+}
+.f_h1 {
+    margin-bottom: 15px;
+}
+.f_p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.f_item {
+    padding: 35px 10px 35px 10px;
+    text-align: center;
+}
+.ft_h2 {
+    margin: 10px 0 0px;
+}
+.f_btn {
+    margin-top: 40px;
+}
+/*feature end*/
+/*lead start*/
+.leading {
+    padding: 40px 0 60px;
+}
+.l_img{
+    margin-bottom: 10px;
+    padding: 0 ;
+}
+.l_content{
+    text-align: center;
+}
+.l_h1{
+     margin: 0 ;
+    font-size: 20px;
+}
+.l_p {
+    margin-top: 10px;
+    padding: 0 ;
+    line-height: 28px;
+}
+/*lead end*/
+/*download start*/
+.download{
+    padding:30px 0 60px;
+}
+.d_content {
+    padding: 0;
+    text-align: center;
+}
+.d_h1{
+     margin: 0 ;
+    font-size: 20px;
+}
+.d_p{
+    margin-top:10px ;
+     padding: 0 ;
+     line-height: 28px;
+}
+.d_img{
+    margin-bottom: 20px;
+    padding: 0 ;
+}
+/*download end*/
+/*slider start*/
+.slider {
+    padding: 50px 0 60px;
+}
+.hdng {
+    font-size: 20px;   
+}
+.sl_text {
+    line-height: 22px;
+    margin-top: 35px;
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+}
+.s_text p {
+    line-height: 40px;  
+}
+.ccp, .ccn {
+    bottom: -548px;
+    width: 50%;
+}
+.hdng {
+      padding: 15px 0 40px;
+}
+.s_text h2 {
+    font-size: 16px;
+    
+}
+.s_text p {
+    line-height: 20px;
+    font-size: 15px;
+}
+/*check out start*/
+.checkout{
+    padding:60px 0 70px;
+}
+.c_h1 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 20px;
+}
+.c_item {
+    margin: 30px 0px 0;
+}
+.c_content {
+    padding: 0 10px 0 10px;
+}
+/*check out end*/
+/*footer start*/
+.footer_top{
+    padding: 40px 0 10px;
+    text-align: center;
+}
+.ft_details {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.ft_links h2{
+    margin-bottom: 0px;
+}
+/*footer end*/
+footer{
+    padding: 10px 0 30px;
+}
+footer p{
+    font-size: 14px;
+}
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+body{
+  padding-top: 105px;
+}
+/*header start*/
+header {
+    padding: 20px 0;
+}
+.menu ul li a {
+    margin-top: 7px;
+    padding: 0 10px !important;
+}
+/*header end*/
+/*banner start*/
+.b_content{
+	text-align: center;
+}
+.b_h1 {
+    margin: 0 0 15px;
+    font-size: 40px;
+}
+.b_p {
+    padding: 0 20px 0 20px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.b_img {
+	margin-bottom: 30px;
+    padding: 0 65px;
+}
+/*banner end*/
+/*feature start*/
+.feature {
+    padding: 50px 0 70px;
+}
+.f_h1 {
+    margin-bottom: 20px;
+}
+.f_p {
+    font-size: 16px;
+    line-height: 28px;
+}
+.f_item {
+    padding: 45px 10px 40px 20px;
+}
+.ft_h2 {
+    margin: 10px 0 0px;
+}
+.f_btn {
+    margin-top: 50px;
+}
+/*feature end*/
+/*lead start*/
+.leading{
+    padding:80px 0 80px;
+}
+.l_img{
+    margin-bottom: 35px;
+    padding: 0 65px;
+}
+.l_content{
+    text-align: center;
+}
+.l_p {
+    padding: 0 20px 0 20px;
+    line-height: 28px;
+}
+
+/*lead end*/
+/*download start*/
+.download{
+    padding:30px 0 60px;
+}
+.d_content {
+    padding: 0;
+    text-align: center;
+}
+.d_p{
+    margin-top:20px ;
+     padding: 0 20px 0 20px;
+     line-height: 28px;
+}
+.d_img{
+    margin-bottom: 30px;
+    padding: 0 60px;
+}
+/*download end*/
+/*slider start*/
+.slider {
+    padding: 80px 0 90px;
+}
+.sl_text {
+    line-height: 35px;
+    margin-top: 45px;
+    padding: 0;
+    text-align: center;
+}
+.s_text p {
+    line-height: 40px;
+   
+}
+.ccp, .ccn {
+    bottom: -754px;
+    width: 55%;
+}
+.hdng {
+   padding: 63px 0 64px;
+   font-size: 35px;
+}
+
+.ci {
+  bottom: -132px;
+}
+/*check out start*/
+.checkout{
+    padding:60px 0 90px;
+}
+.c_h1 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.c_item {
+    margin: 30px 30px 0;
+}
+.c_content {
+    padding: 0 120px 0 60px;
+}
+/*check out end*/
+/*footer start*/
+.footer_top {
+    text-align: center;
+}
+.ft_details {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+/*footer end*/
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+body{
+  padding-top: 107px;
+}
+/*header start*/
+.menu ul li a {
+    margin-top: 8px;
+    padding: 0 10px !important;
+}
+/*header end*/
+/*banner start*/
+.b_content{
+	text-align: center;
+}
+.b_p {
+    padding: 0 20px 0 20px;
+}
+.b_img {
+	margin-bottom: 40px;
+    padding: 0 60px;
+}
+/*banner end*/
+/*feature start*/
+.feature {
+    padding: 60px 0 80px;
+}
+.f_h1 {
+    margin-bottom: 25px;
+}
+.f_item {
+    padding: 55px 30px 45px 35px;
+}
+.f_btn {
+    margin-top: 60px;
+}
+/*feature end*/
+/*lead start*/
+.leading{
+    padding:80px 0 80px;
+}
+.l_img{
+    margin-bottom: 40px;
+    padding: 0 60px;
+}
+.l_content{
+    text-align: center;
+}
+.l_p {
+    padding: 0 20px 0 20px;
+}
+/*lead end*/
+/*download start*/
+.download{
+    padding:50px 0 80px;
+}
+.d_content {
+    padding: 0;
+    text-align: center;
+}
+.d_p{
+     padding: 0 30px 0 30px;
+}
+.d_img{
+    margin-bottom: 40px;
+    padding: 0 60px;
+}
+/*download end*/
+/*slider start*/
+.slider {
+    padding: 80px 0 100px;
+}
+.s_text h2 {
+    font-size: 15px;
+   line-height: 20px;    
+}
+.sl_text {
+    line-height: 25px;
+    padding-right: 0px;
+}
+.ci {
+  bottom: -129px;
+}
+/*check out start*/
+.checkout{
+    padding:60px 0 90px;
+}
+.c_h1 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.c_item {
+    margin: 50px 120px 0;
+}
+.c_content {
+    padding: 0 120px 0 60px;
+}
+/*check out end*/
+/*footer start*/
+.footer_top{
+    text-align: center;
+}
+.ft_details {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+/*footer end*/
+
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+body{
+  padding-top: 107px;
+}
+/*banner start*/
+.b_p {
+    padding-right: 15px;
+}
+/*banner end*/
+/*feature start*/
+.f_p {
+    padding: 0 20px;
+}
+.f_item {
+    padding: 55px 15px 45px 15px;
+}
+/*feature end*/
+/*lead start*/
+.l_p {
+    padding-right: 19px;
+}
+/*lead end*/
+/*download start*/
+.d_content {
+    padding: 0 0 0 40px;
+}
+.d_p{
+    padding-right: 0px;
+}
+/*download end*/
+/*slider start*/
+
+.s_text h2 {
+    font-size: 16px;   
+}
+.s_text p {
+    line-height: 20px;
+    font-size: 15px;
+} 
+.sl_text {
+    line-height: 25px;
+    padding-right: 125px;
+}
+.ci {
+    bottom: -125px;
+}
+/*check out start*/
+.c_h1 {
+    font-size: 35px;
+}
+.c_content {
+    padding: 0 28px 0 20px;
+}
+/*check out end*/
+/*footer start*/
+.ft_details {
+    padding-right: 40px;
+}
+/*footer end*/
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*download start*/
+.d_content {
+    padding: 0 0 0 115px;
+}
+.d_p{
+    padding-right: 0px;
+}
+/*download end*/
+
+/*slider start*/
+.s_text h2 {
+    font-size: 19px;   
+}
+
+.sl_text {  
+    padding-right: 214px;
+}
+.ci {
+    bottom: -112px;
+}
+.s_text p {
+    line-height: 30px;   
+}
+
+}
+
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.b_h1 {
+    padding-right: 50px;
+}
+.b_p {
+    padding-right: 85px;
+}
+/*banner end*/
+/*feature start*/
+.f_p {
+    padding: 0 80px;
+}
+.f_item {
+    padding: 55px 80px 45px 40px;
+}
+/*feature end*/
+/*lead start*/
+.l_content {
+    padding-right: 75px;
+}
+.l_btn {
+    margin-top: 40px !important;
+}
+/*lead end*/
+/*check out start*/
+.c_content {
+    padding: 0 110px 0 50px;
+}
+/*check out end*/
+
+
+
+}
